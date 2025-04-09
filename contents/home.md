@@ -1,20 +1,46 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![LiNa](https://img.shields.io/badge/LiNa-github-blue?logo=github)](https://people.ucas.edu.cn/~SIAT_Lina)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+### 基本信息
+性别:女    政治面貌：群众\
+移动电话:(+86)13923499617\
+电子邮箱:na_li126@126.com\
+个人主页:https://people.ucas.edu.cn/~SIAT_Lina
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+### 研究领域
+**多媒体信号与信息处理,人机友好视频编码,病理图像压缩和理解,深度学习和强化学习**
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+### 教育背景 
+自动化研究所,**中国科学院**,北京,中国, 博士,计算机应用技术 (2009.09.01–2014.06.07)\
+博士论文：“基于事件图的实时感知数据流处理”\
+博士导师：杨一平,谭杰
 
-#### Research Interests  
-XX, XX, XX, XX.
+信息科学与工程学院,**湖南大学**,长沙,中国, 学士,计算机科学与技术 (2005.09.01–2009.06.07) 
+
+
+
+
+### 教学经历 
+《强化学习》,2023—2024学年秋季学期中国科学研深圳先进技术研究院研究生专业课
+
+### 工作经历
+中国科学院深圳先进技术研究院,深圳,中国 (2020.12–至今)\
+先进计算与数字工程研究所 \
+●副研究员\
+●团队领导：张云
+
+南加州大学,洛杉矶,美国 (2019.04–2019.09)\
+电气工程信号与图像处理系\
+●访问学者\
+●合作导师：C.-C.JayKuo
+
+中国科学院深圳先进技术研究院,深圳,中国 (2016.09–2020.12)\
+先进计算与数字工程研究所 \
+●助理研究员\
+●团队领导：张云
+
+中国科学院深圳先进技术研究院,深圳,中国 (2014.09–2016.09)\
+先进计算与数字工程研究所 \
+●博士后 \
+●合作导师:冯圣中
