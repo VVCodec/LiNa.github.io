@@ -39,8 +39,8 @@
 #### 代表论文
 
 - [1].NaLi,YunZhangandC.-C.JayKuo,“HighEfficiencyIntraVideoCodingBased onData-drivenTransform,”inIEEETransactionsonBroadcasting(T-BC),vol.68,no.2,pp.383-396,2022.(SCI,IF=4.5,JCRQ1)
-- [2].NaLi,YunZhang,WenhanLuoandNingGuo,“InstantCoherentGroupMotionFiltering byGroupMotionRepresentations,”inNeurocomputing,Vol.266,pp.304-314,Nov2017.(SCI,IF=5.5,JCRQ2)
-- [3].NaLi,YunZhang,LinweiZhu,WenhanLuoandSamKwong,“ReinforcementLearning basedCodingUnitEarlyTerminationAlgorithmforHighEfficiencyVideoCoding,”in Journal of Visual Communication and Image Representation(JVCIR),Vol.60,pp.276-286,Feb.2019.(SCI,IF=2.6,JCRQ3)
+- [2].Na Li,YunZhang,WenhanLuoandNingGuo,“InstantCoherentGroupMotionFiltering byGroupMotionRepresentations,”inNeurocomputing,Vol.266,pp.304-314,Nov2017.(SCI,IF=5.5,JCRQ2)
+- [3].Na Li,YunZhang,LinweiZhu,WenhanLuoandSamKwong,“ReinforcementLearning basedCodingUnitEarlyTerminationAlgorithmforHighEfficiencyVideoCoding,”in Journal of Visual Communication and Image Representation(JVCIR),Vol.60,pp.276-286,Feb.2019.(SCI,IF=2.6,JCRQ3)
 - [4]. Linwei Zhu, Yun Zhang, Na Li(共同通讯), Wenhui Wu, Shiqi Wang and Sam Kwong, “Neural Network Based Multi-Level In-Loop Filtering for Versatile Video Coding,” in IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), pp.1-1,2024. (SCI, IF=4.133, JCR Q1)
 
 
