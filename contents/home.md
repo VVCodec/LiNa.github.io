@@ -1,8 +1,6 @@
 [![LiNa](https://img.shields.io/badge/LiNa-github-blue?logo=github)](https://people.ucas.edu.cn/~SIAT_Lina)
 
 ### 基本信息
-性别:女    政治面貌：群众\
-移动电话:(+86)13923499617\
 电子邮箱:na_li126@126.com\
 个人主页:https://people.ucas.edu.cn/~SIAT_Lina
 
