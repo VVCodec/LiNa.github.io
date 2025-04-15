@@ -25,8 +25,8 @@
 - 2023年至今中国图象图形学学会多媒体专业委员会委员
 
 ### 竞赛
-1.2016Large-scale Scene Understanding Challenge(LSUN) organized by Princeton University.(第三名)\
-2.2010JoinHope Image Cup sponsored by Beijing JoinHope Image Technology Ltd.(第一名)
+1.2016 Large-scale Scene Understanding Challenge(LSUN) organized by Princeton University.(第三名)\
+2.2010 JoinHope Image Cup sponsored by Beijing JoinHope Image Technology Ltd.(第一名)
 
 ### 荣誉和奖励
 1.中国科学院大学优秀毕业生.(2014)\
