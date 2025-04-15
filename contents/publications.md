@@ -38,10 +38,24 @@
 
 #### 代表论文
 
-- [1].NaLi,YunZhangandC.-C.JayKuo,“HighEfficiencyIntraVideoCodingBased onData-drivenTransform,”inIEEETransactionsonBroadcasting(T-BC),vol.68,no.2,pp.383-396,2022.(SCI,IF=4.5,JCRQ1)
-- [2].Na Li,YunZhang,WenhanLuoandNingGuo,“InstantCoherentGroupMotionFiltering byGroupMotionRepresentations,”inNeurocomputing,Vol.266,pp.304-314,Nov2017.(SCI,IF=5.5,JCRQ2)
-- [3].Na Li,YunZhang,LinweiZhu,WenhanLuoandSamKwong,“ReinforcementLearning basedCodingUnitEarlyTerminationAlgorithmforHighEfficiencyVideoCoding,”in Journal of Visual Communication and Image Representation(JVCIR),Vol.60,pp.276-286,Feb.2019.(SCI,IF=2.6,JCRQ3)
-- [4]. Linwei Zhu, Yun Zhang, Na Li(共同通讯), Wenhui Wu, Shiqi Wang and Sam Kwong, “Neural Network Based Multi-Level In-Loop Filtering for Versatile Video Coding,” in IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), pp.1-1,2024. (SCI, IF=4.133, JCR Q1)
+- [1].Na Li, Yun Zhang and C.-C. Jay Kuo, “High Efficiency Intra Video Coding Based on Data-driven Transform,” in IEEE Transactions on Broadcasting (T-BC), vol.68, no.2, pp.383-396, 2022. (SCI, IF=4.5, JCR Q1)
+- [2].Na Li, Yun Zhang, Wenhan Luo and Ning Guo, “Instant Coherent Group Motion Filtering by Group Motion Representations,” in Neurocomputing, Vol.266, pp.304-314, Nov 2017. (SCI, IF=5.5, JCR Q2)
+- [3].Na Li, Yun Zhang, Linwei Zhu, Wenhan Luo and Sam Kwong, “Reinforcement Learning based Coding Unit Early Termination Algorithm for High Efficiency Video Coding,” in Journal of Visual Communication and Image Representation (JVCIR), Vol.60, pp.276-286, Feb. 2019. (SCI, IF=2.6, JCR Q3)
+- [4].Linwei Zhu, Yun Zhang, Na Li(共同通讯), Wenhui Wu, Shiqi Wang and Sam Kwong, “Neural Network Based Multi-Level In-Loop Filtering for Versatile Video Coding,” in IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), pp.1-1,2024. (SCI, IF=4.133, JCR Q1)
+- [5].Zhen Chen, Na Li(通讯), Fangmin Sun, Chunyang Li, Ye Li, and Chunling Fan, “Hemostatic Robot Control Based on Reinforcement Learning From Human Feedback,” in Proceedings of 2024 International Conference on Guidance, Navigation and Control , Changsha, China, Aug.9-11, 2024.
+- [6].Na Li, Yun Zhang, Yongfei Zhang, and C.-C. Jay Kuo, “On Energy Compaction of 2D Saab Image Transforms,” in Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Lanzhou, China, Nov.18-21, 2019.
+- [7].Yun Zhang, Keqin Ding, Na Li, Hanli Wang and C.-C. Jay Kuo, “Perceptually Weighted Rate Distortion Optimization for Video-Based Point Cloud Compression,” in IEEE Transactions on Processing (T-IP), vol.32, pp.5933-5947,2023. (SCI, IF=10.856, JCR Q1)
+- [8].Linwei Zhu, Yun Zhang, Na Li, Gangyi Jiang and Sam Kwong, “Deep Learning-Based Intra Mode Derivation for Versatile Video Coding,” in ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM), vol.19, no.2s, pp.1-20,2023. (SCI, IF=5.1, JCR Q2)
+- [9].Jinzhi Lin, Yun Zhang, Na Li and Hongling Jiang, “Joint Source-Channel Decoding of Polar Codes for HEVC based Video Streaming,” in ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM), Vol.18, No.4, Nov. 2022. (SCI, IF=5.1, JCR Q2)
+- [10].Xuemei Zhou, Yun Zhang, Na Li, Xu Wang, Yang Zhou and Yo-Sung Ho, “Projection Invariant Feature and Visual Saliency-Based Stereoscopic Omnidirectional Image Quality Assessment,” in IEEE Transactions on Broadcasting (T-BC), Vol.67, No.2, Jun. 2021.(SCI, IF=4.5, JCR Q1)
+- [11].Linwei Zhu, Yun Zhang,Na Li, Jinyong Pi and Shiqi Wang, “Circular Intra Prediction for 360 Degree Video Coding,” in Journal of Visual Communication and Image Representation (JVCIR), Vol.74, Jan. 2021.(SCI, IF=2.6, JCR Q3)
+- [12].Yun Zhang, Na Li, Sam Kwong, Gangyi Jiang and Huanqiang Zeng, “Statistical Early Termination and Early Skip Models for Fast Mode Decision in HEVC INTRA Coding,” in ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM), Vol.15, No.3, Sept. 2019.(SCI, IF=5.1, JCR Q2)
+- [13].Yun Zhang, Zhaoqing Pan, Na Li, Xu Wang, Gangyi Jiang and Sam Kwong, “Effective Data Driven CU Size Decision Approaches for HEVC Intra Coding,” in IEEE Transactions on Circuits System and Video Technology (T-CSVT), Vol.28, No.11, pp.3208-3222, Nov. 2018. (SCI, IF=4.133, JCR Q1)
+- [14].Linwei Zhu, Yun Zhang, Na Li, Gangyi Jiang and Sam Kwong, “Machine Learning Based Fast H.264/AVC to HEVC Transcoding Exploiting Block Partition Similarity,” in Journal of Visual Communication and Image Representation (JVCIR), Vol.38, pp.824-837, Jul 2016. (SCI, IF=2.6, JCR Q3)
+- [15].Linwei Zhu, Yun Zhang, Na Li, Jinyong Pi and Xinju Wu, “Sparse Representation based Intra Prediction for Lossless/Near Lossless Video Coding,” in IEEE International Conference on Visual Communications and Image Processing (VCIP 2020), Macau, China, Dec. 1-4, 2020.
+
+
+
 
 
 #### 授权专利
